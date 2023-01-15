@@ -10,7 +10,7 @@ Audio and Internal is working properly through AppleALC.
 Sleep is working
 Power Management
 GPU (Intel HD 520) Acceleration fully working
-Wifi (Intel Wireless Card 8260) Working Fully with ITLWM.
+Wifi (Intel Wireless Card 8260) Working Fully with (https://openintelwireless.github.io/General/Installation.html)[ITLWM]. AirportItlwm.kext is also present in kext Folder but Disabled.
 Function Keys Fully Working
 
 You can Change SMBIOS Serial Number with GenSMBIOS.
