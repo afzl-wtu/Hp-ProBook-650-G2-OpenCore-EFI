@@ -11,7 +11,8 @@ Sleep is working
 USBs Are Properly mapped with USBToolBOX. Type C is also working.
 Power Management
 GPU (Intel HD 520) Acceleration fully working
-Wifi (Intel Wireless Card 8260) Working Fully with [ITLWM](https://openintelwireless.github.io/General/Installation.html). AirportItlwm.kext is also present in kext Folder but Disabled.
+Wifi (Intel Wireless Card 8260) Working Fully with ITWLM.kext. AirportItlwm.kext is also present in kext Folder but Disabled.
 Function Keys Fully Working
 ```
 You can Change SMBIOS Serial Number with GenSMBIOS.
+[ITLWM](https://openintelwireless.github.io/General/Installation.html)
